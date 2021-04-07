@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @conlongamtoi  / @leminh_81
 - 👀 I’m interested in Web Programming
 - 🌱 I’m currently learning PHP
-- 📫 How to reach me at Twitter: Leminh_81 or https://facebook.com/conlongamtoi81
+- 📫 How to reach me: Twitter: Leminh_81 or https://facebook.com/conlongamtoi81
